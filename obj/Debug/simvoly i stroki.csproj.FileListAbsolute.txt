@@ -1,0 +1,7 @@
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\simvoly i stroki\bin\Debug\simvoly i stroki.exe.config
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\simvoly i stroki\bin\Debug\simvoly i stroki.exe
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\simvoly i stroki\bin\Debug\simvoly i stroki.pdb
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\simvoly i stroki\obj\Debug\simvoly i stroki.csproj.AssemblyReference.cache
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\simvoly i stroki\obj\Debug\simvoly i stroki.csproj.CoreCompileInputs.cache
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\simvoly i stroki\obj\Debug\simvoly i stroki.exe
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\simvoly i stroki\obj\Debug\simvoly i stroki.pdb
